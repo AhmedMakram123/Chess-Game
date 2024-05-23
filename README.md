@@ -1,2 +1,2 @@
 # chess-Game
-This is a simple & experimental Chess AI created using pure Html & Css & JavaScript.
+This is a simple & experimental Chess game created using pure Html & Css & JavaScript.
